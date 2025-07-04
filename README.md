@@ -49,16 +49,18 @@ Aqui estão algumas das tecnologias com as quais estou estudando e desenvolvendo
 
 ### 🌟 Meus Principais Projetos
 
-- 💻 **[Nome do Projeto 1](link-para-o-repositorio)**: Uma breve descrição do que o projeto faz. (Tecnologias: `React`, `Node.js`, `MySQL`)
-- 📱 **[Nome do Projeto 2](link-para-o-repositorio)**: Uma breve descrição do que o projeto faz. (Tecnologias: `Java`, `Spring Boot`)
+- 💻 **[HSEvents - Sistema de Eventos](https://github.com/HyagoIFSilva/HSEvents)**: Uma plataforma para criação e gerenciamento de eventos. (Tecnologias: `PHP`, `JavaScript`, `MySQL`)
+- 🎮 **[Jokenpô Game](https://github.com/HyagoIFSilva/Jokenpo)**: Um jogo clássico de Pedra, Papel e Tesoura com interface interativa. (Tecnologias: `HTML`, `CSS`, `JavaScript`)
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HyagoIFSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyagoIFSilva&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HyagoIFSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" alt="Estatísticas do GitHub de HyagoIFSilva"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyagoIFSilva&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por HyagoIFSilva"/>
 </p>
 
 ---
