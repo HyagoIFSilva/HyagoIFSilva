@@ -56,12 +56,16 @@ Aqui estão algumas das tecnologias com as quais estou estudando e desenvolvendo
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyagoIFSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" alt="Estatísticas do GitHub de HyagoIFSilva"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyagoIFSilva&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por HyagoIFSilva"/>
-</p>
+<table align="center">
+  <tr valign="top">
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HyagoIFSilva&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true&hide=contribs" alt="Estatísticas do GitHub de HyagoIFSilva"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyagoIFSilva&layout=compact&langs_count=7&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas por HyagoIFSilva"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
